@@ -1,0 +1,25 @@
+{
+  "name": "amazon-ecommerce-project",
+  "version": "1.0.0",
+  "description": "Amazon E-commerce Project – A JavaScript-based online shopping application.",
+  "main": "amazon.html",
+  "scripts": {
+    "dev":"vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdale-web/amazon-ecommerce-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abdale-web/amazon-ecommerce-project/issues"
+  },
+  "homepage": "https://github.com/abdale-web/amazon-ecommerce-project#readme",
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
